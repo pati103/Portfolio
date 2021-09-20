@@ -42,5 +42,7 @@ Enjoy!
 
 **AB TESTING: BUSINESS DECISIONS BASED ON DATA**
 - **Task:** From a list of hypotheses that may help boost revenue, you need to prioritize them, launch an A/B test, and analyze the results.
-- 
+- ICE & RICE frameworks to prioritize hypotheses
+- A/B Test Analysis
+- statistical significance
 
