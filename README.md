@@ -9,6 +9,18 @@ Statistical Data Analysis:
  - Distribution
  - Hypothesis Testing
 
+INTEGRATION PROJECT 1
+- Task: Identify patterns that determine whether a videogame succeeds or not.
+- compilation of all mentioned skills above. 
+- Plotting graphs - seaborn, plotly
+-- boxplots
+-- scatter plots
+-- tree
+-- lollipop plot
+- Selecting Sample Data 
+- Hypothesis testing
+- 
+
 Business Analysis
 - Metrics
 - Funnels
@@ -17,3 +29,5 @@ Business Analysis
 - Retention and Churn Rates
 - LTV (Lifetime Value)
 - CAC (Customer Acquisition Cost)
+
+
