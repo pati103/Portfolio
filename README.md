@@ -30,7 +30,8 @@ Enjoy!
 - Selecting Sample Data 
 - Hypothesis testing
 
-**Business Analysis**
+**BUSINESS ANALYSIS**
+- **Task:** find the most reliable way to optimize marketing expenses, based on data from current customers.
 - KPI Metrics
 - Funnels
 - Conversion
@@ -39,4 +40,7 @@ Enjoy!
 - LTV (Lifetime Value)
 - CAC (Customer Acquisition Cost)
 
+**AB TESTING: BUSINESS DECISIONS BASED ON DATA**
+- **Task:** From a list of hypotheses that may help boost revenue, you need to prioritize them, launch an A/B test, and analyze the results.
+- 
 
