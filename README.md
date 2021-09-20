@@ -1,7 +1,9 @@
 # Data Analytics Portfolio
-Contains data analysis projects, performed on Jupyter Notebook using python and some SQL.
+Hello and welcome to my Portfolio! In this section you will find my Data Analysis Projects. They are , performed on Jupyter Notebook using python and some SQL.
 
-Find below the specific skills put into practice for each project. Note thatall projects include a section for Data Import, Data Preprocessing, Visualization and Cleaning.
+I have listed below the specific skills put into practice for each project. Note that every project includes a section for Data Import, Data Preprocessing (Missing Values, Duplicates, Data Type adjustments) and Visualization.
+
+Enjoy!
 
 **EXPLORATORY DATA ANALYSIS (EDA)**
 - Task: Find out which factors influence the price of vehicles.
