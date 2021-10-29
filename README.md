@@ -46,3 +46,13 @@ Enjoy!
 - A/B Test Analysis
 - statistical significance
 
+**FINAL PROJECT: AB TESTING**
+- **Task:** A previous employee from an international online store failed to complete an experiment: they launched an A/B test and then quit (to start a watermelon farm in Brazil). They left only the technical specifications and the test results.
+- EDA (Exploratory Data Analysis)
+- Conversion and funnel analysis
+- Ensure every user is only present in 1 sample.
+- Find any peculiarities in the data before starting the A/B test
+- Evaluate the A/B test results
+- Z-Testing
+- Check for Statistical difference between the proportions
+
